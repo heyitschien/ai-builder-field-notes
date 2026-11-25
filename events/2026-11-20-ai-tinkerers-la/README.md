@@ -10,7 +10,8 @@ This folder preserves a **community-shareable, independently prepared** recap of
 
 1. [Executive brief](executive-brief.md) — what mattered and why
 2. [Speaker demos and public resources](speaker-resources.md) — direct GitHub, product and documentation links
-3. [Edited transcript notes](transcript-notes.md) — corrected, speaker-organized paraphrase and uncertainty notes; **not a verbatim transcript**
+3. [Customer implementation guide](customer-implementation-guide.md) — business use cases, safeguards, measurable pilots, and handoff
+4. [Edited transcript notes](transcript-notes.md) — corrected, speaker-organized paraphrase and uncertainty notes; **not a verbatim transcript**
 
 ## Presenters and topics
 
