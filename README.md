@@ -10,6 +10,8 @@ Practical, independent notes from AI meetups and builder communities: **presente
 | --- | --- | --- | --- |
 | Nov 20, 2026 | [AI Tinkerers LA — Tinkerers Holiday Party Edition (Still Demos!)](https://la.aitinkerers.org/p/ai-tinkerers-la-tinkerers-holiday-party-edition-still-demos) | The KINN, Venice, Los Angeles | [Six-speaker event brief](events/2026-11-20-ai-tinkerers-la/README.md) |
 
+**From demos to real-world adoption:** [Customer implementation field guide for the November 20 event](events/2026-11-20-ai-tinkerers-la/customer-implementation-guide.md).
+
 ## What each event folder contains
 
 - `README.md` — what happened, who presented, quick navigation
